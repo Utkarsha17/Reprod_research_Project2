@@ -273,10 +273,11 @@ Analysis
     plot_fatal
 
 ![](https://github.com/Utkarsha17/Reprod_research_Project2/blob/master/unnamed-chunk-11-2.png)
+
 Plots and Tables show that tornado is most dangerous weather event that
 impacted population health.
 
-1.  Now displaying top 10 weather events that has impact on economy
+2.  Now displaying top 10 weather events that has impact on economy
 
 <!-- -->
 
