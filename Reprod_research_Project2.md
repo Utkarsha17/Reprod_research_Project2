@@ -262,7 +262,7 @@ Analysis
         theme(axis.text.x = element_text(angle=90, vjust=0.5, hjust=1))
     plot_inj
 
-![](Reprod_research_Project2_files/figure-markdown_strict/unnamed-chunk-11-1.png)
+![](https://github.com/Utkarsha17/Reprod_research_Project2/blob/master/unnamed-chunk-11-1.png)
 
     # plotting top 10 weather events causing fatalities
 
@@ -272,7 +272,7 @@ Analysis
         theme(axis.text.x = element_text(angle=90, vjust=0.5, hjust=1))
     plot_fatal
 
-![](Reprod_research_Project2_files/figure-markdown_strict/unnamed-chunk-11-2.png)
+![](https://github.com/Utkarsha17/Reprod_research_Project2/blob/master/unnamed-chunk-11-2.png)
 Plots and Tables show that tornado is most dangerous weather event that
 impacted population health.
 
@@ -318,7 +318,7 @@ impacted population health.
 
     g1
 
-![](Reprod_research_Project2_files/figure-markdown_strict/unnamed-chunk-13-1.png)
+![](https://github.com/Utkarsha17/Reprod_research_Project2/blob/master/unnamed-chunk-15-1.png)
 
     g2<- ggplot(data=head(crop_Damage_ord,10), aes(x=reorder(EVTYPE, -crop_Damage), y=log10(crop_Damage), fill=crop_Damage )) +
         geom_bar(fill="blue",stat="identity") + 
@@ -328,7 +328,7 @@ impacted population health.
 
     g2
 
-![](Reprod_research_Project2_files/figure-markdown_strict/unnamed-chunk-14-1.png)
+![](https://github.com/Utkarsha17/Reprod_research_Project2/blob/master/unnamed-chunk-16-1.png)
 
 Results
 =======
